@@ -8,3 +8,5 @@ Jawaban untuk problem Compare the Triplets di Hackerrank (https://www.hackerrank
 2. Masukkan nilai untuk 2 variabel (Bob dan Alice)
 
 3. Program akan mengeluarkan hasil skor perbandingan dari Bob dan Alice.
+
+file Main.java ada di dalam foler src.
